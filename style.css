@@ -1,0 +1,35 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: green;
+}
+
+#games {
+    background-color: cadetblue;
+    width: 100%;
+    height: 800px;
+}
+
+#chatbot {
+    width: 100%;
+    height: 800px;
+    background-color: green;
+}
+
+img {
+    transition: transform 0.2s;
+}
+
+img:hover{
+    transform:scale(0.9);
+}
+
+h1{
+  font-family: 'ZCOOL KuaiLe', cursive;
+    text-shadow: 2px 2px gainsboro;
+}
+
+h2{
+    color: floralwhite;
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
